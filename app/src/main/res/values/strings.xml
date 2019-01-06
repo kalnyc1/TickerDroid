@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ticker</string>
+    <string name="txtSymbol">Symbol</string>
+    <string name="txtSearch">Search</string>
+    <string name="txtCompany">Company</string>
+    <string name="txtShares">Shares</string>
+    <string name="txtExchange">Exchange</string>
+    <string name="txtSector">Sector</string>
+    <string name="txtPrevious">Previous</string>
+    <string name="txtOpen">Open</string>
+    <string name="txtLast">Last</string>
+    <string name="txtHigh">High</string>
+    <string name="txtLow">Low</string>
+    <string name="txtClose">Close</string>
+    <string name="txtExtended">Extended</string>
+    <string name="txt52WkRange">52 Week</string>
+    <string name="txtValue">Value</string>
+    <string name="titleActivityChart">Chart</string>
+    <string name="txtChartDate">Chart Date</string>
+</resources>
